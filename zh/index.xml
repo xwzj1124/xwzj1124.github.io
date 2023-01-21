@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>寒雨的博客</title>
+    <link>https://coldrain-blog.com/zh/</link>
+    <description>Recent content on 寒雨的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language><atom:link href="https://coldrain-blog.com/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试文章</title>
+      <link>https://coldrain-blog.com/zh/posts/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://coldrain-blog.com/zh/posts/test/</guid>
+      <description>这是摘要</description>
+    </item>
+    
+    <item>
+      <title>测试文章2</title>
+      <link>https://coldrain-blog.com/zh/posts/test2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://coldrain-blog.com/zh/posts/test2/</guid>
+      <description>标题1 adfdafdsa技法来看电视剧里的附近撒的立法安静看反抗军的森林的撒附近的 啊发达浮动说附近是否来计算的立法技术大发来的附近打扫了库附近里发生技法来答
+标题2 fadfdsfdsfsaf技法来看电视剧里的附近撒的立法安静看反抗军的森林的撒附近的 啊发达浮动说附近是否来计算的立法技术大发来的附近打扫了库附近里发生技法来答
+标题3 asdfdssaf技法来看电视剧里的附近撒的立法安静看反抗军的森林的撒附近的 啊发达浮动说附近是否来计算的立法技术大发来的附近打扫了库附近里发生技法来答
+标题4 asfdsfdsafsd技法来看电视剧里的附近撒的立法安静看反抗军的森林的撒附近的 啊发达浮动说附近是否来计算的立法技术大发来的附近打扫了库附近里发生技法来答
+标题5 asfdfsdaf技法来看电视剧里的附近撒的立法安静看反抗军的森林的撒附近的 啊发达浮动说附近是否来计算的立法技术大发来的附近打扫了库附近里发生技法来答</description>
+    </item>
+    
+    
+  </channel>
+</rss>
